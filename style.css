@@ -21,8 +21,7 @@ body{
 
 .box {
     height: 100px;
-    min-width: 200px;
-    flex-grow: 1;
+    flex: 1 o 200px;
 }
 
 .one{
@@ -34,5 +33,5 @@ body{
 }
 
 .three{
-    background: green; 
+    background: green;
 }
